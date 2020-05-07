@@ -15,7 +15,7 @@ steps:
     repo: zillownyc/awscli
     build_args:
     - AWS_CLI_VERSION=1.18.54
-    targs:
+    tags:
     - latest
     - "1.18.54"
     - "1.18"
